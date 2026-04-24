@@ -1,0 +1,34 @@
+{
+    "name": "kilyakus/yii2-webview",
+    "description": "Yii2 «WebView» asset bundle.",
+    "type": "yii2-extension",
+    "require": {
+        "kilyakus/js-webview": "dev-master",
+        "kilyakus/js-scrollview": "dev-master",
+        "kilyakus/js-dockview": "dev-master",
+        "kilyakus/js-holdview": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Kilyakus/js-scrollview"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Kilyakus/js-webview"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Kilyakus/js-dockview"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Kilyakus/js-holdview"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "kilyakus\\webview\\": "src/"
+        }
+    }
+}
