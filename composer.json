@@ -2,6 +2,10 @@
     "name": "kilyakus/yii2-webview",
     "description": "Yii2 «WebView» asset bundle.",
     "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "webview", "asset"],
+    "license": "CC-BY-NC-4.0",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "kilyakus/js-webview": "dev-master",
         "kilyakus/js-scrollview": "dev-master",
