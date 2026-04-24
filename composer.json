@@ -22,10 +22,6 @@
                     "url": "https://github.com/Kilyakus/js-scrollview",
                     "type": "git",
                     "reference": "master"
-                },
-                "dist": {
-                    "url": "https://github.com/Kilyakus/js-scrollview/archive/master.zip",
-                    "type": "zip"
                 }
             }
         },
@@ -38,10 +34,6 @@
                     "url": "https://github.com/Kilyakus/js-webview",
                     "type": "git",
                     "reference": "master"
-                },
-                "dist": {
-                    "url": "https://github.com/Kilyakus/js-webview/archive/master.zip",
-                    "type": "zip"
                 }
             }
         },
@@ -54,10 +46,6 @@
                     "url": "https://github.com/Kilyakus/js-dockview",
                     "type": "git",
                     "reference": "master"
-                },
-                "dist": {
-                    "url": "https://github.com/Kilyakus/js-dockview/archive/master.zip",
-                    "type": "zip"
                 }
             }
         },
@@ -70,10 +58,6 @@
                     "url": "https://github.com/Kilyakus/js-holdview",
                     "type": "git",
                     "reference": "master"
-                },
-                "dist": {
-                    "url": "https://github.com/Kilyakus/js-holdview/archive/master.zip",
-                    "type": "zip"
                 }
             }
         }
