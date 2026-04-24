@@ -21,7 +21,7 @@
                 "source": {
                     "url": "https://github.com/Kilyakus/js-scrollview",
                     "type": "git",
-                    "reference": "main"
+                    "reference": "master"
                 }
             }
         },
@@ -33,7 +33,7 @@
                 "source": {
                     "url": "https://github.com/Kilyakus/js-webview",
                     "type": "git",
-                    "reference": "main"
+                    "reference": "master"
                 }
             }
         },
@@ -45,7 +45,7 @@
                 "source": {
                     "url": "https://github.com/Kilyakus/js-dockview",
                     "type": "git",
-                    "reference": "main"
+                    "reference": "master"
                 }
             }
         },
@@ -57,7 +57,7 @@
                 "source": {
                     "url": "https://github.com/Kilyakus/js-holdview",
                     "type": "git",
-                    "reference": "main"
+                    "reference": "master"
                 }
             }
         }
