@@ -14,19 +14,19 @@
     },
     "repositories": [
         {
-            "type": "vcs",
+            "type": "package",
             "url": "https://github.com/Kilyakus/js-scrollview"
         },
         {
-            "type": "vcs",
+            "type": "package",
             "url": "https://github.com/Kilyakus/js-webview"
         },
         {
-            "type": "vcs",
+            "type": "package",
             "url": "https://github.com/Kilyakus/js-dockview"
         },
         {
-            "type": "vcs",
+            "type": "package",
             "url": "https://github.com/Kilyakus/js-holdview"
         }
     ],
