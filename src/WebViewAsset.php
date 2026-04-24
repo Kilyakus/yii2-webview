@@ -8,15 +8,15 @@ class WebViewAsset extends AssetBundle
     public $sourcePath = '@vendor/kilyakus';
 
     public $css = [
-        'js-webview/webview.min.css',
-        'js-scrollview/scrollview.min.css',
-        'js-dockview/dockview.min.css',
+        'assets/css/webview.min.css',
+        'assets/css/scrollview.min.css',
+        'assets/css/dockview.min.css',
     ];
 
     public $js = [
-        'js-webview/webview.min.js',
-        'js-scrollview/scrollview.min.js',
-        'js-dockview/dockview.min.js',
-        'js-holdview/holdview.min.js',
+        'assets/js/webview.min.js',
+        'assets/js/scrollview.min.js',
+        'assets/js/dockview.min.js',
+        'assets/js/holdview.min.js',
     ];
 }

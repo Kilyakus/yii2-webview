@@ -6,62 +6,6 @@
     "license": "CC-BY-NC-4.0",
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "kilyakus/js-webview": "dev-main",
-        "kilyakus/js-scrollview": "dev-main",
-        "kilyakus/js-dockview": "dev-main",
-        "kilyakus/js-holdview": "dev-main"
-    },
-    "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "kilyakus/js-scrollview",
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/Kilyakus/js-scrollview",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "kilyakus/js-webview",
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/Kilyakus/js-webview",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "kilyakus/js-dockview",
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/Kilyakus/js-dockview",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "kilyakus/js-holdview",
-                "version": "dev-main",
-                "source": {
-                    "url": "https://github.com/Kilyakus/js-holdview",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
-        }
-    ],
     "autoload": {
         "psr-4": {
             "kilyakus\\webview\\": "src/"
