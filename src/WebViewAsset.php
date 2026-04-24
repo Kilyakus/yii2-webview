@@ -5,18 +5,18 @@ use yii\web\AssetBundle;
 
 class WebViewAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/kilyakus';
+    public $sourcePath = '@vendor/kilyakus/yii2-webview/src/assets';
 
     public $css = [
-        'assets/css/webview.min.css',
-        'assets/css/scrollview.min.css',
-        'assets/css/dockview.min.css',
+        'css/webview.min.css',
+        'css/scrollview.min.css',
+        'css/dockview.min.css',
     ];
 
     public $js = [
-        'assets/js/webview.min.js',
-        'assets/js/scrollview.min.js',
-        'assets/js/dockview.min.js',
-        'assets/js/holdview.min.js',
+        'js/webview.min.js',
+        'js/scrollview.min.js',
+        'js/dockview.min.js',
+        'js/holdview.min.js',
     ];
 }
